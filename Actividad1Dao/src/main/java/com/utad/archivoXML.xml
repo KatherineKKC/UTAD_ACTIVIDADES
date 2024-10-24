@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<alumnos>
+    <alumno>
+        <nombre>Julio</nombre>
+        <apellido>Pérez</apellido>
+        <curso>DAMD</curso>
+        <dni>Y99283949</dni>
+    </alumno>
+
+    <alumno>
+        <nombre>Katherine</nombre>
+        <apellido>Mujaes</apellido>
+        <curso>SSII</curso>
+        <dni>J89439320</dni>
+    </alumno>
+    <alumno>
+        <nombre>Gaga</nombre>
+        <apellido>Cardona</apellido>
+        <curso>DAO</curso>
+        <dni>Y9928889</dni>
+    </alumno>
+    <alumno>
+        <nombre>Marc</nombre>
+        <apellido>Sanchez</apellido>
+        <curso>DAMD</curso>
+        <dni>63383949D</dni>
+    </alumno>
+    <alumno>
+        <nombre>Rihanna</nombre>
+        <apellido>Restrepo</apellido>
+        <curso>PROGA</curso>
+        <dni>Y999832949</dni>
+    </alumno>
+    <alumno>
+        <nombre>Beyonce</nombre>
+        <apellido>Aristizabal</apellido>
+        <curso>BBDA</curso>
+        <dni>K9283949</dni>
+    </alumno>
+</alumnos>
